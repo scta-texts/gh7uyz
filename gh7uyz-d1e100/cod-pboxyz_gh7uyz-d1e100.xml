@@ -10,7 +10,7 @@
           <resp>TEI Encoder</resp>
         </respStmt>
         <respStmt>
-          <name ref="#gerhardeger">Gerhard Egere</name>
+          <name ref="#gerhardeger">Gerhard Eger</name>
           <resp>Transcription Editor</resp>
           <resp>TEI Encoder</resp>
         </respStmt>
@@ -67,51 +67,59 @@
         <p xml:id="gh7uyz-d1e100-d1e122">
           <pb ed="#P" n="1-r"/>
           <cb ed="#P" n="a"/>
-          <lb ed="#P"/>Ad eruditionem simplicium sacerdotum qualiter <sic>certa<!--circa--></sic> sacramentum 
-          sacratissimi corporis et sanguinis domini nostri yesu christi se debeant 
-          exercere quorumdam catholicorum doctorum
-          dicta contexens simul in unum ordinare curabo ut sciant quam sollicite et &lt;devote&gt;
-          sese preparent et quam sancte et iuste illa sacratissima misteria peragant aliisque discrete
-          ministrent et qualiter in eisdem misteriis importune petentes et perseveranter pulsantes
-          anxieque perquerant sacratissimum manna absconditum quod <quote xml:id="gh7uyz-d1e100-Qd1e130">nemo scit nisi qui
-            accipit</quote>
-          <!--&lt;Ap 2,17&gt; --> nemo accipit nisi qui secundum quod sacrosancta romana
-          ecclesia in qua sedes et auctoritas beati Petri apostoli collocatur de isto altissimo
-          sacramento credit tenet et docet et ipse similiter credit fideliter tenet firmiter et
-          veraciter confitetur nec non reverenter et caute meditatur sapienter et sane intelligit,
-          mundo corde et simplici oculo intuetur devoto affectu et saporoso gustu amplectitur et
-          tandem in crucifixum Christum interius per amorem et exterius totus per omnia cruciformia
-          transformetur.
+          <lb ed="#P" n="1"/>Ad eruditionem simplicium sacerdotum. Qualiter
+          <lb ed="#P" n="2"/>circa sacramentum sacratissimi corporis et sanguinis
+          <lb ed="#P" n="3"/>domini nostri yesu christi se debeant exercere. 
+          Quo<lb ed="#P" break="no" n="4"/>rumdam catholicorum doctorum dicta contexens
+          <lb ed="#P" n="5"/>simul in unum / ordinare curabo. Vt sciant quam 
+          sol<lb ed="#P" break="no" n="6"/>licite et <!--illegible word--> se se preparent. Et quam sancte et iuste
+          <lb ed="#P" n="7"/>illa sacratissima misteria peragant. aliisque 
+          discre<lb ed="#P" break="no" n="8"/>te ministrent. Et qualiter in eisdem misteriis importune
+          <lb ed="#P" n="9"/>petentes / et perseveranter pulsante / anxieque perquerant
+          <lb ed="#P" n="10"/>sacratissimum manna absconditum. quod <quote xml:id="gh7uyz-d1e100-Qd1e130">nemo scit
+          <lb ed="#P" n="11"/>nisi qui accipit</quote>.<!--Ap 2,17--> Nemo accipit nisi que secundum quod sacrosancta romana
+          <lb ed="#P" n="12"/>ecclesia in qua sedes et auctoritas beati petri apostoli 
+          col<lb ed="#P" break="no" n="13"/>locatur de isto altissimo sacramento credit tenet
+          <lb ed="#P" n="14"/>et docet. Et ipse similiter credit / fideliter tenet /
+          firmi<lb ed="#P" break="no" n="15"/>ter et ueraciter confitetur nec non reuerenter et caute
+          me<lb ed="#P" break="no" n="16"/>ditatur sapienter et sane intelligit. mundo corde et
+          <lb ed="#P" n="17"/>simplici oculo intuetur deuoto affectu et saporoso
+          <lb ed="#P" n="18"/>gustu amplectitur. Et tandem in crucifixum Christum interius per 
+          a<lb ed="#P" break="no" n="19"/>morem / et exterius totus per omnia cruciformia
+          transfor<lb ed="#P" break="no" n="20"/>m<!--e (lacuna)-->tur.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e135">
-          Igitur ad pleniorem evidentiam predictorum omnia hec dicenda distinguntur in septem
-          partes.
+          <pc type="pilcrow">¶</pc> Igitur ad pleniorem euidentiam predictorum /
+          <lb ed="#P" n="21"/>omnia hec dicenda distinguntur in .vii. partes.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e137">
-          In prima consideranda est aliqualiter conditio auctoris istud sacramentum instituentis. 
+          <pc type="pilcrow">¶</pc> In
+          <lb ed="#P" n="22"/>.prima. consideranda est aliqualiter conditio auctoris istud
+          <lb ed="#P" n="23"/>sacramentum instituentis. 
         </p>
         <p xml:id="gh7uyz-d1e100-d1e139">
-          In secunda consideranda est conditio ministri digne et utiliter celebrantis.
+          <pc type="pilcrow">¶</pc> In .2a. consideranda est
+          <lb ed="#P" n="24"/>conditio ministri digne et utiliter celebrantis.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e142">
-          In tertia consideranda est malitia pravi ministri sacramentum istud despicientis.
+          <pc type="pilcrow">¶</pc>In .3a. consideranda est malitia praui ministri sacramentum
+          <lb ed="#P" n="25"/>istud despicientis.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e144">
-          <pc type="pilcrow">¶</pc> In quarta consideranda est admirabilis virtus in hoc sacramento supernaturaliter
-          operantis.
-          
+          <pc type="pilcrow">¶</pc> In .4a. consideranda est
+          admi<lb ed="#P" break="no" n="26"/>rabilis uirtus in hoc sacramento super naturaliter opera.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e150">
-          In quinta &lt;consideranda est utilitas&gt; maxima hanc sanctissimam eucaristiam digne
-          accipientis.
+          <pc type="pilcrow">¶</pc>In .5a. maxima hanc sanctissimam eucaristiam
+          <lb ed="#P" n="27"/>digne accipientis.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e152">
-          In sexta consideranda est aliqua expositio verborum et actuum illud sacramentum
-          conficientis.
+          <pc type="pilcrow">¶</pc> In .6a. consideranda est aliqua expositio uerborum et actuum illud sacramentum
+          confici<lb ed="#P" break="no" n="28"/>entis.
         </p>
         <p xml:id="gh7uyz-d1e100-d1e154">
-          In septima qualis debeat esse expositio cuiuslibet ad hanc sacramenti conditionem
-          accedentis.</p>
+          <pc type="pilcrow">¶</pc> In .7a. qualis debeat esse expositio cuiuslibet
+          <lb ed="#P" n="29"/>ad hanc sacram conditionem accedentis.</p>
       </div>
     </body>
   </text>
